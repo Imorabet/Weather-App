@@ -1,2 +1,2 @@
 # Weather-App
-Weather application made using react
+Weather application made using react an tailwind css
