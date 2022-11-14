@@ -1,2 +1,2 @@
 # Weather-App
-Weather application tmade using react
+Weather application made using react
