@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ .width{
+    width: 20rem;
+ }
+ @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400&family=Raleway:wght@500&display=swap');
+.body{
+    font-family: 'Quicksand';
+}
+.max_width{
+    min-width: 32%;
+    min-height: 40%;
+}
+.inset{
+    left: 96%;
+    top: 30%;
+}
+.min_w{
+    min-width: 18%;
+    min-height: 40%;
+}
+.img_w1{
+    margin: 0 45%;
+}
+.img_w2{
+    margin: 0 45%;
+}
+.main_img{
+    margin: 0 45%;
+}
