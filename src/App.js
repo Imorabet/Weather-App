@@ -7,10 +7,10 @@ import Forcast from './components/Forcast';
 import Inputs from './components/Inputs';
 //import WeatherApp from './components/WeatherApp';
 export const WeatherIcons = {
-  "01d": "./icons/sunny.png",
-  "01n": "./icons/night.png",
-  "02d": "./icons/sunny.png",
-  "02n": "./icons/cloudy-night.png",
+  "01d": "/icons/sunny.png",
+  "01n": "/icons/night.png",
+  "02d": "/icons/sunny.png",
+  "02n": "/icons/cloudy-night.png",
   "03d": "/icons/cloudy.png",
   "03n": "/icons/cloudy.png",
   "04d": "/icons/perfect-day.png",
